@@ -1,0 +1,108 @@
+App 4935 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 4935 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 23040 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 23040 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 21749 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 21749 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 21749 output: [ pid=21749, time=2021-05-26 00:49:16,430 ]: Not Found: /robots.txt
+App 9880 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 9880 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 9880 output: [ pid=9880, time=2021-05-26 02:34:34,826 ]: Not Found: /robots.txt
+App 12194 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 12194 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 12194 output: [ pid=12194, time=2021-05-26 03:34:22,297 ]: Not Found: /robots.txt
+App 12194 output: [ pid=12194, time=2021-05-26 03:34:22,772 ]: Not Found: /ads.txt
+App 21522 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 21522 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11967 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 11967 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 11967 output: [ pid=11967, time=2021-05-26 05:43:23,961 ]: Not Found: /robots.txt
+App 11967 output: [ pid=11967, time=2021-05-26 05:43:40,392 ]: Not Found: /ads.txt
+App 18634 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 18634 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 9454 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 9454 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 9454 output: [ pid=9454, time=2021-05-26 11:46:39,073 ]: Not Found: /favicon.ico
+App 31859 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 31859 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 26110 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 26110 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 26110 output: [ pid=26110, time=2021-05-26 15:52:00,673 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 26110 output: [ pid=26110, time=2021-05-26 15:52:06,647 ]: Bad Request: /robots.txt
+App 26110 output: [ pid=26110, time=2021-05-26 15:52:06,974 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 26110 output: [ pid=26110, time=2021-05-26 15:52:06,998 ]: Bad Request: /
+App 227912 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 227912 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 227912 output: [ pid=227912, time=2021-05-26 18:52:54,954 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 227912 output: [ pid=227912, time=2021-05-26 18:53:00,322 ]: Bad Request: /
+App 1340593 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1340593 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1579722 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1579722 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1688017 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1688017 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1688017 output: [ pid=1688017, time=2021-05-27 03:46:27,798 ]: Not Found: /wp-admin/admin-ajax.php
+App 1688017 output: [ pid=1688017, time=2021-05-27 03:53:18,967 ]: Not Found: /robots.txt
+App 1688017 output: [ pid=1688017, time=2021-05-27 03:53:19,301 ]: Not Found: /ads.txt
+App 2029751 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2029751 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2029751 output: [ pid=2029751, time=2021-05-27 05:42:32,398 ]: Not Found: /robots.txt
+App 2029751 output: [ pid=2029751, time=2021-05-27 05:42:42,477 ]: Not Found: /ads.txt
+App 2029751 output: [ pid=2029751, time=2021-05-27 07:13:00,027 ]: Not Found: /robots.txt
+App 2029751 output: [ pid=2029751, time=2021-05-27 07:13:00,203 ]: Not Found: /robots.txt
+App 2029751 output: [ pid=2029751, time=2021-05-27 07:13:00,393 ]: Not Found: /robots.txt
+App 2855847 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2855847 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2941033 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2941033 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3409622 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3409622 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3471633 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3471633 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3471633 output: [ pid=3471633, time=2021-05-27 14:06:28,124 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 3471633 output: [ pid=3471633, time=2021-05-27 14:06:33,020 ]: Bad Request: /robots.txt
+App 3471633 output: [ pid=3471633, time=2021-05-27 14:06:33,414 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 3471633 output: [ pid=3471633, time=2021-05-27 14:06:33,438 ]: Bad Request: /
+App 3818011 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3818011 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3818011 output: [ pid=3818011, time=2021-05-27 16:14:34,683 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 3818011 output: [ pid=3818011, time=2021-05-27 16:14:39,569 ]: Bad Request: /
+App 4170290 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 4170290 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 851924 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 851924 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1218797 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1218797 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1510189 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1510189 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1510189 output: [ pid=1510189, time=2021-05-28 03:46:20,736 ]: Not Found: /robots.txt
+App 1510189 output: [ pid=1510189, time=2021-05-28 03:46:21,966 ]: Not Found: /ads.txt
+App 1510189 output: [ pid=1510189, time=2021-05-28 03:46:44,951 ]: Not Found: /wp-content/plugins/cherry-plugin/admin/css/tinymce-shortcodes.css
+App 1662210 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1662210 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1786905 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 1786905 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 1786905 output: [ pid=1786905, time=2021-05-28 05:23:16,862 ]: Not Found: /robots.txt
+App 1786905 output: [ pid=1786905, time=2021-05-28 05:23:26,891 ]: Not Found: /ads.txt
+App 2002406 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2002406 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2002406 output: [ pid=2002406, time=2021-05-28 06:39:10,464 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 2002406 output: [ pid=2002406, time=2021-05-28 06:39:14,678 ]: Bad Request: /robots.txt
+App 2002406 output: [ pid=2002406, time=2021-05-28 06:39:15,029 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 2002406 output: [ pid=2002406, time=2021-05-28 06:39:15,069 ]: Bad Request: /
+App 2143367 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2143367 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2585682 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2585682 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2585682 output: [ pid=2585682, time=2021-05-28 10:03:20,139 ]: Not Found: /favicon.ico
+App 2984536 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 2984536 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 2984536 output: [ pid=2984536, time=2021-05-28 12:25:04,623 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 2984536 output: [ pid=2984536, time=2021-05-28 12:25:11,412 ]: Bad Request: /
+App 3334182 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3334182 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
+App 3334182 output: [ pid=3334182, time=2021-05-28 14:30:47,464 ]: Invalid HTTP_HOST header: 'www.gaspol.tech'. You may need to add 'www.gaspol.tech' to ALLOWED_HOSTS.
+App 3334182 output: [ pid=3334182, time=2021-05-28 14:30:52,752 ]: Bad Request: /
+App 3334182 output: [ pid=3334182, time=2021-05-28 15:27:14,101 ]: Not Found: /favicon.ico
+App 3485508 output: /opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/wsgi-loader.py:26: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+App 3485508 output:   import sys, os, re, imp, threading, signal, traceback, socket, select, struct, logging, errno
